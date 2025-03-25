@@ -1,2 +1,2 @@
 # ReelPlayground
-ReelPlayground — A fun JavaScript spinning game for learning purposes. No real gambling involved; I do not support gambling as it is a bad habit.
+ReelPlayground is a fun and interactive spinning game built with JavaScript. This project simulates a spinning wheel concept where players can spin for random outcomes, just for entertainment purposes — no real gambling involved. I do not support gambling; it is a bad habit. This project is purely for learning JavaScript properly.
